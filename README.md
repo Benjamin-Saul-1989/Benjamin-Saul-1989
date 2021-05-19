@@ -21,6 +21,15 @@ the world, which has given me the ability to become an effective communicator.
 
 - 🧑‍💻 Languages & Technologies
 
+    <img align="left" alt="Bash" width="26px" src="https://community.infoblox.com/t5/image/serverpage/image-id/2195iA290BF7E3BA6064D/image-size/large/is-moderation-mode/true?v=v2&px=999" />
+    <img align="left" alt="" width="26px" src="" />
+    <img align="left" alt="" width="26px" src="" />
+    <img align="left" alt="" width="26px" src="" />
+    <img align="left" alt="" width="26px" src="" />
+    <img align="left" alt="" width="26px" src="" />
+    <img align="left" alt="" width="26px" src="" />
+    <img align="left" alt="" width="26px" src="" />
+
     <img align="left" alt="Microsoft Azure" width="26px" src="https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/26/70/f7/2670f758-1cdb-60f3-f854-55eb75fd6ba6/source/256x256bb.jpg" />
     <img align="left" alt="GCP" width="26px" src="http://static1.squarespace.com/static/5ad4b8e04eddecf8fce0d794/5bbc13259140b782d111ad46/5bbc13d69140b782d111b4b4/1539054124718/apple-icon.png" />
 
@@ -33,7 +42,7 @@ the world, which has given me the ability to become an effective communicator.
     <img align="left" alt="Jenkins" width="26px" src="https://wiki.jenkins.io/download/attachments/2916393/headshot.png?version=1&modificationDate=1302753947000&api=v2" />
     <img align="left" alt="TeamCity" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/TeamCity_Icon.png" />
     <img align="left" alt="Octopus-Deploy" width="26px" src="https://images.g2crowd.com/uploads/product/hd_favicon/d65129b4caefad9d7ed13c2c21023096/octopus-deploy.svg" />
-    <img align="left" alt="" width="26px" src="" />
+    <img align="left" alt="PostMan" width="26px" src="https://images.g2crowd.com/uploads/product/hd_favicon/1535488313/postman.svg" />
 
 
 
