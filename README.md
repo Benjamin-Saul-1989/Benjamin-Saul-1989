@@ -27,7 +27,7 @@ the world, which has given me the ability to become an effective communicator.
 
     <img align="left" alt="Alasian" width="26px" src="https://pbs.twimg.com/profile_images/907320949762134016/NVTmGzl7_400x400.jpg" />
     <img align="left" alt="GIT" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
-    <img align="left" alt="GitHub" width="26px" src="https://img.favpng.com/22/23/23/social-media-github-computer-icons-logo-png-favpng-ari7E0gHBmTSMg57C3wKYxCMb.jpg" />
+    <img align="left" alt="GitHub" width="26px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />
 
     <img align="left" alt="Microsoft Azure DevOps" width="26px" src="https://user-images.githubusercontent.com/1874103/46415699-cfc5cf00-c6f3-11e8-9bcc-2fc2bf1759ec.png" />
 
