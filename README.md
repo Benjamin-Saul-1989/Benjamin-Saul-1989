@@ -22,11 +22,11 @@ the world, which has given me the ability to become an effective communicator.
 <img align="left" alt="Microsoft Azure" width="26px" src="https://azure.microsoft.com/svghandler/information-protection?width=600&height=315" /><br>
 
 ### 📃 Databases<br>
-<img align="left" alt="MySQL" width="26px" src="https://p1.hiclipart.com/preview/64/828/885/mysql-logo-organization-database-database-management-system-theory-implementation-line-circle-png-clipart.jpg" />
+<img align="left" alt="MySQL" width="26px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" />
 <img align="left" alt="" width="26px" src="" />
 <img align="left" alt="" width="26px" src="" />
 <img align="left" alt="" width="26px" src="" />
-<img align="left" alt="" width="26px" src="" />
+<img align="left" alt="" width="26px" src="" /><br>
 
 
 ### 👨🏻‍💻 Languages<br>
