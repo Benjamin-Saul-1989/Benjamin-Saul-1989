@@ -1,4 +1,4 @@
-### Introduction
+# Introduction
 
 Experienced DevOps Engineer with a wide gambit of expresses in the technology 
 sector. Having earned an Advanced Diploma in Information Technology, 
