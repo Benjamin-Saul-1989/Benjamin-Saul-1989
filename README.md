@@ -14,8 +14,6 @@ the world, which has given me the ability to become an effective communicator.
 #### 😄 Pronouns: Them/They
 #### 📫 How to reach me: [<img align="center" alt="LinkedIn" width="80" src="https://golflifenavigators.com/wp-content/uploads/2018/09/linkedin-logo.png" />]( https://www.linkedin.com/in/benjamin-saul-mcculloch/)
 
-    <img align="left" alt="" width="26px" src="" />
-
 ### ☁️ Cloud Technologies<br>
 <img align="left" alt="AWS" width="26px" src="https://fiareconsulting.com/wp-content/uploads/2020/02/AWS-Cloud-1.png" />
 <img align="left" alt="GCP" width="26px" src="https://www.gend.co/hs-fs/hubfs/gcp-logo-cloud.png?width=730&name=gcp-logo-cloud.png" />
