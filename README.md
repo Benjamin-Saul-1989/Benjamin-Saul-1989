@@ -19,7 +19,7 @@ the world, which has given me the ability to become an effective communicator.
     <img align="left" alt="" width="26px" src="" />
 
 
-- 🧑‍💻 Languages & Technologies
+- 🧑‍💻 Languages
     
     <img align="left" alt="ASP.Net" width="26px" src="https://pics.freeicons.io/uploads/icons/png/14621971553750220-512.png" />
     <img align="left" alt="Bash" width="26px" src="https://community.infoblox.com/t5/image/serverpage/image-id/2195iA290BF7E3BA6064D/image-size/large/is-moderation-mode/true?v=v2&px=999" />
@@ -32,9 +32,12 @@ the world, which has given me the ability to become an effective communicator.
     <img align="left" alt=".Net" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" />
     <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />
     <img align="left" alt="Powershell" width="26px" src="https://4.bp.blogspot.com/-VnHaVPAfOms/XDepW52T1BI/AAAAAAAAGQo/ZzujNs2KPkEmmtF1Astea01BkZ6RGStswCLcBGAs/s1600/powershell.png" />
+    
+- Cloud Technologies ☁️
     <img align="left" alt="Microsoft Azure" width="26px" src="https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/26/70/f7/2670f758-1cdb-60f3-f854-55eb75fd6ba6/source/256x256bb.jpg" />
     <img align="left" alt="GCP" width="26px" src="http://static1.squarespace.com/static/5ad4b8e04eddecf8fce0d794/5bbc13259140b782d111ad46/5bbc13d69140b782d111b4b4/1539054124718/apple-icon.png" />
 
+-Versioning Technologies 😸
     <img align="left" alt="Alasian" width="26px" src="https://pbs.twimg.com/profile_images/907320949762134016/NVTmGzl7_400x400.jpg" />
     <img align="left" alt="GIT" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
     <img align="left" alt="GitHub" width="26px" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Github-512.png" />
