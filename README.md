@@ -13,8 +13,6 @@ the world, which has given me the ability to become an effective communicator.
 - 🌱 I’m currently learning, everything I can to be the best possible engineer.
 - 😄 Pronouns: Them/They
 - 📫 How to reach me
-<!-->
-Linkedin
-</!-->
-[<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( https://www.linkedin.com/in/benjamin-saul-mcculloch/)
+<!-->Linkedin</!-->
+[<img align="right" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( https://www.linkedin.com/in/benjamin-saul-mcculloch/)
 - 🧑‍💻 Technologies 
