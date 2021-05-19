@@ -23,7 +23,7 @@ the world, which has given me the ability to become an effective communicator.
 
 ### 📃 Databases<br>
 <img align="left" alt="MySQL" width="26px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" />
-<img align="left" alt="" width="26px" src="" />
+<img align="left" alt="PostgreSQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" />
 <img align="left" alt="" width="26px" src="" />
 <img align="left" alt="" width="26px" src="" />
 <img align="left" alt="" width="26px" src="" /><br>
