@@ -31,8 +31,8 @@ the world, which has given me the ability to become an effective communicator.
 
     <img align="left" alt="Microsoft Azure DevOps" width="26px" src="https://user-images.githubusercontent.com/1874103/46415699-cfc5cf00-c6f3-11e8-9bcc-2fc2bf1759ec.png" />
     <img align="left" alt="Jenkins" width="26px" src="https://wiki.jenkins.io/download/attachments/2916393/headshot.png?version=1&modificationDate=1302753947000&api=v2" />
-    <img align="left" alt="" width="26px" src="" />
-    <img align="left" alt="" width="26px" src="" />
+    <img align="left" alt="TeamCity" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/TeamCity_Icon.png" />
+    <img align="left" alt="Octopus-Deploy" width="26px" src="https://images.g2crowd.com/uploads/product/hd_favicon/d65129b4caefad9d7ed13c2c21023096/octopus-deploy.svg" />
     <img align="left" alt="" width="26px" src="" />
 
 
