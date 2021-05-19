@@ -33,3 +33,4 @@ the world, which has given me the ability to become an effective communicator.
     <img align="left" alt="Powershell" width="26px" src="https://4.bp.blogspot.com/-VnHaVPAfOms/XDepW52T1BI/AAAAAAAAGQo/ZzujNs2KPkEmmtF1Astea01BkZ6RGStswCLcBGAs/s1600/powershell.png" />
 
 - ☁️ Cloud Technologies
+
