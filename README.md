@@ -14,6 +14,6 @@ the world, which has given me the ability to become an effective communicator.
 - 😄 Pronouns: Them/They
 - 📫 How to reach me
 
-        [<img align="center" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( https://www.linkedin.com/in/benjamin-saul-mcculloch/)
+    [<img align="center" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( https://www.linkedin.com/in/benjamin-saul-mcculloch/)
 
 - 🧑‍💻 Technologies 
