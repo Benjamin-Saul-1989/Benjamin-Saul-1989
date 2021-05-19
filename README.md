@@ -18,8 +18,8 @@ the world, which has given me the ability to become an effective communicator.
 
     <img align="left" alt="" width="26px" src="" />
 
-* 👨🏻‍💻 Languages
-![ASP.Net](https://pics.freeicons.io/uploads/icons/png/14621971553750220-512.png)
+# ☁️ Cloud Technologies
+<img align="left" alt="ASP.Net" width="26px" src="https://pics.freeicons.io/uploads/icons/png/14621971553750220-512.png" />
 <img align="left" alt="Bash" width="26px" src="https://community.infoblox.com/t5/image/serverpage/image-id/2195iA290BF7E3BA6064D/image-size/large/is-moderation-mode/true?v=v2&px=999" />
 <img align="left" alt="C" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />
 <img align="left" alt="C#" width="26px" src="https://iconape.com/wp-content/files/sh/51404/svg/c--4.svg" />
@@ -31,8 +31,13 @@ the world, which has given me the ability to become an effective communicator.
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />
 <img align="left" alt="Powershell" width="26px" src="https://4.bp.blogspot.com/-VnHaVPAfOms/XDepW52T1BI/AAAAAAAAGQo/ZzujNs2KPkEmmtF1Astea01BkZ6RGStswCLcBGAs/s1600/powershell.png" />
 <img align="left" alt="" width="26px" src="" />
+# 👨🏻‍💻 Languages
+# 👨🏻‍💻 Sources Control Technologies
+# 👨🏻‍💻 Tools 
+## 
 
-* ☁️ Cloud Technologies
+
+
 
 
     
