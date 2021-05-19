@@ -31,6 +31,10 @@ the world, which has given me the ability to become an effective communicator.
     <img align="left" alt="GitLab" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/GitLab_Logo.svg/1200px-GitLab_Logo.svg.png" />
 
     <img align="left" alt="Microsoft Azure DevOps" width="26px" src="https://user-images.githubusercontent.com/1874103/46415699-cfc5cf00-c6f3-11e8-9bcc-2fc2bf1759ec.png" />
+    <img align="left" alt="Jenkins" width="26px" src="https://img1.freepng.es/20180515/xw/kisspng-jenkins-docker-continuous-delivery-installation-so-5afa799de502c3.730639311526364573938.jpg" />
+    <img align="left" alt="" width="26px" src="" />
+    <img align="left" alt="" width="26px" src="" />
+    <img align="left" alt="" width="26px" src="" />
 
 
 
