@@ -22,8 +22,8 @@ the world, which has given me the ability to become an effective communicator.
 - 🧑‍💻 Languages & Technologies
 
     <img align="left" alt="Microsoft Azure" width="26px" src="https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/26/70/f7/2670f758-1cdb-60f3-f854-55eb75fd6ba6/source/256x256bb.jpg" />
-
     <img align="left" alt="GCP" width="26px" src="http://static1.squarespace.com/static/5ad4b8e04eddecf8fce0d794/5bbc13259140b782d111ad46/5bbc13d69140b782d111b4b4/1539054124718/apple-icon.png" />
+    <img align="left" alt="white line" width="26px" src="https://h2ohypnosis.com/wp-content/themes/h2o/images/white-twitter-icon-png-32.jpg" />
 
     <img align="left" alt="Alasian" width="26px" src="https://pbs.twimg.com/profile_images/907320949762134016/NVTmGzl7_400x400.jpg" />
     <img align="left" alt="GIT" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
