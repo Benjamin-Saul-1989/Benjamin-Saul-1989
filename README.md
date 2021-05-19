@@ -16,7 +16,5 @@ the world, which has given me the ability to become an effective communicator.
 <!-->
 Linkedin
 </!-->
-<a href="https://www.linkedin.com/in/benjamin-saul-mcculloch/">
-<img border="0" alt="Linkedin" src="https://github.com/Benjamin-Saul-1989/Benjamin-Saul-1989/blob/main/Icon/Linkedin.png?raw=true" width="250" height="100">
-
+[<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( https://www.linkedin.com/in/benjamin-saul-mcculloch/)
 - 🧑‍💻 Technologies 
