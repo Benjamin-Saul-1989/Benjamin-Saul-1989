@@ -21,6 +21,14 @@ the world, which has given me the ability to become an effective communicator.
 <img align="left" alt="GCP" width="26px" src="https://www.gend.co/hs-fs/hubfs/gcp-logo-cloud.png?width=730&name=gcp-logo-cloud.png" />
 <img align="left" alt="Microsoft Azure" width="26px" src="https://azure.microsoft.com/svghandler/information-protection?width=600&height=315" /><br>
 
+### 📃 Databases<br>
+<img align="left" alt="MySQL" width="26px" src="https://p1.hiclipart.com/preview/64/828/885/mysql-logo-organization-database-database-management-system-theory-implementation-line-circle-png-clipart.jpg" />
+<img align="left" alt="" width="26px" src="" />
+<img align="left" alt="" width="26px" src="" />
+<img align="left" alt="" width="26px" src="" />
+<img align="left" alt="" width="26px" src="" />
+
+
 ### 👨🏻‍💻 Languages<br>
 <img align="left" alt="ASP.Net" width="26px" src="https://pics.freeicons.io/uploads/icons/png/14621971553750220-512.png" />
 <img align="left" alt="Bash" width="26px" src="https://community.infoblox.com/t5/image/serverpage/image-id/2195iA290BF7E3BA6064D/image-size/large/is-moderation-mode/true?v=v2&px=999" />
