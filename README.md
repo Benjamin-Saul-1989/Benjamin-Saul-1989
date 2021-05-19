@@ -22,7 +22,7 @@ the world, which has given me the ability to become an effective communicator.
 <img align="left" alt="Microsoft Azure" width="26px" src="https://azure.microsoft.com/svghandler/information-protection?width=600&height=315" /><br>
 
 ### 📦 Container Technologies
-<img align="left" alt="Docker" width="26px" src="https://www.underworldcode.org/content/images/size/w600/2020/08/Moby-logo-1.png" />
+<img align="left" alt="Docker" width="26px" src="https://www.underworldcode.org/content/images/size/w600/2020/08/Moby-logo-1.png" /><br>
 
 ### 📃 Databases<br>
 <img align="left" alt="MySQL" width="26px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" />
