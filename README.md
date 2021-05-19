@@ -19,6 +19,11 @@ the world, which has given me the ability to become an effective communicator.
     <img align="left" alt="" width="26px" src="" />
 
 ## ☁️ Cloud Technologies
+<img align="left" alt="AWS" width="26px" src="https://fiareconsulting.com/wp-content/uploads/2020/02/AWS-Cloud-1.png" />
+<img align="left" alt="GCP" width="26px" src="https://www.gend.co/hs-fs/hubfs/gcp-logo-cloud.png?width=730&name=gcp-logo-cloud.png" />
+<img align="left" alt="Microsoft Azure" width="26px" src="https://azure.microsoft.com/svghandler/information-protection?width=600&height=315" />
+
+## 👨🏻‍💻 Languages
 <img align="left" alt="ASP.Net" width="26px" src="https://pics.freeicons.io/uploads/icons/png/14621971553750220-512.png" />
 <img align="left" alt="Bash" width="26px" src="https://community.infoblox.com/t5/image/serverpage/image-id/2195iA290BF7E3BA6064D/image-size/large/is-moderation-mode/true?v=v2&px=999" />
 <img align="left" alt="C" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />
@@ -31,14 +36,13 @@ the world, which has given me the ability to become an effective communicator.
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />
 <img align="left" alt="Powershell" width="26px" src="https://4.bp.blogspot.com/-VnHaVPAfOms/XDepW52T1BI/AAAAAAAAGQo/ZzujNs2KPkEmmtF1Astea01BkZ6RGStswCLcBGAs/s1600/powershell.png" />
 <img align="left" alt="" width="26px" src="" />
-
-## 👨🏻‍💻 Languages
 ## 👨🏻‍💻 Sources Control Technologies
 <img align="left" alt="Alasian" width="26px" src="https://pbs.twimg.com/profile_images/907320949762134016/NVTmGzl7_400x400.jpg" />
 <img align="left" alt="GIT" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
 <img align="left" alt="GitHub" width="26px" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Github-512.png" />
 <img align="left" alt="GitLab" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/GitLab_Logo.svg/1200px-GitLab_Logo.svg.png" />
-# 👨🏻‍💻 Tools 
+
+## 👨🏻‍💻 Tools 
 
 
 
