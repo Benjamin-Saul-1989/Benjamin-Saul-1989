@@ -32,6 +32,7 @@ the world, which has given me the ability to become an effective communicator.
     <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />
     <img align="left" alt="Powershell" width="26px" src="https://4.bp.blogspot.com/-VnHaVPAfOms/XDepW52T1BI/AAAAAAAAGQo/ZzujNs2KPkEmmtF1Astea01BkZ6RGStswCLcBGAs/s1600/powershell.png" />
     
+
 - ☁️ Cloud Technologies
 
     <img align="left" alt="Microsoft Azure" width="26px" src="https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/26/70/f7/2670f758-1cdb-60f3-f854-55eb75fd6ba6/source/256x256bb.jpg" />
