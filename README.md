@@ -25,10 +25,10 @@ the world, which has given me the ability to become an effective communicator.
     <img align="left" alt="Bash" width="26px" src="https://community.infoblox.com/t5/image/serverpage/image-id/2195iA290BF7E3BA6064D/image-size/large/is-moderation-mode/true?v=v2&px=999" />
     <img align="left" alt="C" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />
     <img align="left" alt="C#" width="26px" src="https://iconape.com/wp-content/files/sh/51404/svg/c--4.svg" />
-    <img align="left" alt="" width="26px" src="" />
-    <img align="left" alt="" width="26px" src="" />
-    <img align="left" alt="" width="26px" src="" />
-    <img align="left" alt="" width="26px" src="" />
+    <img align="left" alt="Java" width="26px" src="https://icons-for-free.com/iconfiles/png/512/java+icon-1320167912601224138.png" />
+    <img align="left" alt="JavaScript" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png" />
+    <img align="left" alt="HTML 5" width="26px" src="https://icons-for-free.com/iconfiles/png/512/icon++html+icon-1320194800994962643.png" />
+    <img align="left" alt="CSS" width="26px" src="" />
     <img align="left" alt="" width="26px" src="" />
 
     <img align="left" alt="Microsoft Azure" width="26px" src="https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/26/70/f7/2670f758-1cdb-60f3-f854-55eb75fd6ba6/source/256x256bb.jpg" />
