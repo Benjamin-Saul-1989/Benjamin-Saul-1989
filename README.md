@@ -31,27 +31,3 @@ the world, which has given me the ability to become an effective communicator.
     <img align="left" alt=".Net" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" />
     <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />
     <img align="left" alt="Powershell" width="26px" src="https://4.bp.blogspot.com/-VnHaVPAfOms/XDepW52T1BI/AAAAAAAAGQo/ZzujNs2KPkEmmtF1Astea01BkZ6RGStswCLcBGAs/s1600/powershell.png" />
-    
-
-
-- ☁️ Cloud Technologies
-
-    <img align="left" alt="Microsoft Azure" width="26px" src="https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/26/70/f7/2670f758-1cdb-60f3-f854-55eb75fd6ba6/source/256x256bb.jpg" />
-    <img align="left" alt="GCP" width="26px" src="http://static1.squarespace.com/static/5ad4b8e04eddecf8fce0d794/5bbc13259140b782d111ad46/5bbc13d69140b782d111b4b4/1539054124718/apple-icon.png" />
-
-- 👨🏻‍💻 Sources Control Technologies
-
-    <img align="left" alt="Alasian" width="26px" src="https://pbs.twimg.com/profile_images/907320949762134016/NVTmGzl7_400x400.jpg" />
-    <img align="left" alt="GIT" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
-    <img align="left" alt="GitHub" width="26px" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Github-512.png" />
-    <img align="left" alt="GitLab" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/GitLab_Logo.svg/1200px-GitLab_Logo.svg.png" />
-
-    <img align="left" alt="Microsoft Azure DevOps" width="26px" src="https://user-images.githubusercontent.com/1874103/46415699-cfc5cf00-c6f3-11e8-9bcc-2fc2bf1759ec.png" />
-    <img align="left" alt="Jenkins" width="26px" src="https://wiki.jenkins.io/download/attachments/2916393/headshot.png?version=1&modificationDate=1302753947000&api=v2" />
-    <img align="left" alt="TeamCity" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/TeamCity_Icon.png" />
-    <img align="left" alt="Octopus-Deploy" width="26px" src="https://images.g2crowd.com/uploads/product/hd_favicon/d65129b4caefad9d7ed13c2c21023096/octopus-deploy.svg" />
-    <img align="left" alt="PostMan" width="26px" src="https://images.g2crowd.com/uploads/product/hd_favicon/1535488313/postman.svg" />
-
-
-
-
