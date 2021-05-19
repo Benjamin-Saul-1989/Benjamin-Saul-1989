@@ -19,17 +19,17 @@ the world, which has given me the ability to become an effective communicator.
     <img align="left" alt="" width="26px" src="" />
 
 * 👨🏻‍💻 Languages
-    * <img align="left" alt="ASP.Net" width="26px" src="https://pics.freeicons.io/uploads/icons/png/14621971553750220-512.png" />
-    * <img align="left" alt="Bash" width="26px" src="https://community.infoblox.com/t5/image/serverpage/image-id/2195iA290BF7E3BA6064D/image-size/large/is-moderation-mode/true?v=v2&px=999" />
-    * <img align="left" alt="C" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />
-    * <img align="left" alt="C#" width="26px" src="https://iconape.com/wp-content/files/sh/51404/svg/c--4.svg" />
-    * <img align="left" alt="Java" width="26px" src="https://icons-for-free.com/iconfiles/png/512/java+icon-1320167912601224138.png" />
-    * <img align="left" alt="JavaScript" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png" />
-    * <img align="left" alt="HTML 5" width="26px" src="https://icons-for-free.com/iconfiles/png/512/icon++html+icon-1320194800994962643.png" />
-    * <img align="left" alt="CSS" width="26px" src="https://icon-library.com/images/css3-icon/css3-icon-10.jpg" />
-    * <img align="left" alt=".Net" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" />
-    * <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />
-    * <img align="left" alt="Powershell" width="26px" src="https://4.bp.blogspot.com/-VnHaVPAfOms/XDepW52T1BI/AAAAAAAAGQo/ZzujNs2KPkEmmtF1Astea01BkZ6RGStswCLcBGAs/s1600/powershell.png" />
+<img align="left" alt="ASP.Net" width="26px" src="https://pics.freeicons.io/uploads/icons/png/14621971553750220-512.png" />
+<img align="left" alt="Bash" width="26px" src="https://community.infoblox.com/t5/image/serverpage/image-id/2195iA290BF7E3BA6064D/image-size/large/is-moderation-mode/true?v=v2&px=999" />
+<img align="left" alt="C" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />
+<img align="left" alt="C#" width="26px" src="https://iconape.com/wp-content/files/sh/51404/svg/c--4.svg" />
+<img align="left" alt="Java" width="26px" src="https://icons-for-free.com/iconfiles/png/512/java+icon-1320167912601224138.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png" />
+<img align="left" alt="HTML 5" width="26px" src="https://icons-for-free.com/iconfiles/png/512/icon++html+icon-1320194800994962643.png" />
+<img align="left" alt="CSS" width="26px" src="https://icon-library.com/images/css3-icon/css3-icon-10.jpg" />
+<img align="left" alt=".Net" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" />
+<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />
+<img align="left" alt="Powershell" width="26px" src="https://4.bp.blogspot.com/-VnHaVPAfOms/XDepW52T1BI/AAAAAAAAGQo/ZzujNs2KPkEmmtF1Astea01BkZ6RGStswCLcBGAs/s1600/powershell.png" />
 <img align="left" alt="" width="26px" src="" />
 
 * ☁️ Cloud Technologies
