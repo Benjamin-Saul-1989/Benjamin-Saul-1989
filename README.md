@@ -21,7 +21,7 @@ the world, which has given me the ability to become an effective communicator.
 <img align="left" alt="GCP" width="26px" src="https://www.gend.co/hs-fs/hubfs/gcp-logo-cloud.png?width=730&name=gcp-logo-cloud.png" />
 <img align="left" alt="Microsoft Azure" width="26px" src="https://azure.microsoft.com/svghandler/information-protection?width=600&height=315" /><br>
 
-### 📦 Container Technologies
+### 📦 Container Technologies<br>
 <img align="left" alt="Docker" width="26px" src="https://www.underworldcode.org/content/images/size/w600/2020/08/Moby-logo-1.png" /><br>
 
 ### 📃 Databases<br>
