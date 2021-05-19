@@ -29,7 +29,7 @@ the world, which has given me the ability to become an effective communicator.
     <img align="left" alt="JavaScript" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png" />
     <img align="left" alt="HTML 5" width="26px" src="https://icons-for-free.com/iconfiles/png/512/icon++html+icon-1320194800994962643.png" />
     <img align="left" alt="CSS" width="26px" src="https://icon-library.com/images/css3-icon/css3-icon-10.jpg" />
-    <img align="left" alt=".Net" width="26px" src="https://miro.medium.com/max/2625/1*oc0z3w_7TKgE0oSyiqpnRw.png" />
+    <img align="left" alt=".Net" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" />
     <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />
 
     <img align="left" alt="Microsoft Azure" width="26px" src="https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/26/70/f7/2670f758-1cdb-60f3-f854-55eb75fd6ba6/source/256x256bb.jpg" />
