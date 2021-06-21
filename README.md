@@ -12,7 +12,7 @@ the world, which has given me the ability to become an effective communicator.
 🔭 I’m currently at UST-Global as a DevOps Engineer.<br>
 🌱 I’m currently learning, everything I can to be the best possible engineer.<br>
 😄 Pronouns: Them/They<br>
-📫 How to reach me: <p>[<img align="center" alt="LinkedIn" width="80" src="https://golflifenavigators.com/wp-content/uploads/2018/09/linkedin-logo.png" />]( https://www.linkedin.com/in/benjamin-saul-mcculloch/)
+📫 How to reach me: <br>[<img align="center" alt="LinkedIn" width="80" src="https://golflifenavigators.com/wp-content/uploads/2018/09/linkedin-logo.png" />]( https://www.linkedin.com/in/benjamin-saul-mcculloch/)
 
 ### ☁️ Cloud Technologies<br>
 <img align="left" alt="AWS" width="26px" src="https://fiareconsulting.com/wp-content/uploads/2020/02/AWS-Cloud-1.png" />
