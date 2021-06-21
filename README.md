@@ -13,7 +13,6 @@ the world, which has given me the ability to become an effective communicator.
 🌱 I’m currently learning, everything I can to be the best possible engineer.<br>
 😄 Pronouns: Them/They<br>
 📫 How to reach me: [<img align="center" alt="LinkedIn" width="80" src="https://golflifenavigators.com/wp-content/uploads/2018/09/linkedin-logo.png" />]( https://www.linkedin.com/in/benjamin-saul-mcculloch/)
-[<img align="center" alt="Gmail" width="80" src="https://www.iconpacks.net/icons/2/free-gmail-logo-icon-2561-thumb.png" />](<a href="benjaminsaulmcculloch@gmail.com"> </a>)
 
 ### ☁️ Cloud Technologies<br>
 <img align="left" alt="AWS" width="26px" src="https://fiareconsulting.com/wp-content/uploads/2020/02/AWS-Cloud-1.png" />
