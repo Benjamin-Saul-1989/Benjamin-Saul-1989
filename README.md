@@ -17,35 +17,6 @@ In essence, I am not just an engineer; I am a multifaceted individual driven by 
 😄 Pronouns: Them/They<br>
 📫 How to reach me: <p>[<img align="center" alt="LinkedIn" width="80" src="https://golflifenavigators.com/wp-content/uploads/2018/09/linkedin-logo.png" />](https://www.linkedin.com/in/benjamin-saul-mcculloch/)
 
-### ☁️ Cloud Technologies<br>
-<img align="left" alt="AWS" width="26px" src="https://fiareconsulting.com/wp-content/uploads/2020/02/AWS-Cloud-1.png" />
-<img align="left" alt="GCP" width="26px" src="https://www.gend.co/hs-fs/hubfs/gcp-logo-cloud.png?width=730&name=gcp-logo-cloud.png" />
-<img align="left" alt="Microsoft Azure" width="26px" src="https://azure.microsoft.com/svghandler/information-protection?width=600&height=315" /><br>
-
-### 📦 Container Technologies<br>
-<img align="left" alt="Docker" width="26px" src="https://www.underworldcode.org/content/images/size/w600/2020/08/Moby-logo-1.png" /><br>
-
-### 📃 Databases<br>
-<img align="left" alt="MySQL" width="26px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" />
-<img align="left" alt="PostgreSQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" />
-<img align="left" alt="" width="26px" src="" />
-<img align="left" alt="" width="26px" src="" />
-<img align="left" alt="" width="26px" src="" /><br>
-
-
-### 👨🏻‍💻 Languages<br>
-![C](https://img.shields.io/badge/_-C-555555.svg?style=for-the-badge)
-![C#](https://img.shields.io/badge/_-CS-178600.svg?style=for-the-badge)
-https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
-![DOCKERFILE](https://img.shields.io/badge/_-DOCKERFILE-384D54.svg?style=for-the-badge)
-
-### 👨🏻‍💻 Sources Control Technologies<br>
-<img align="left" alt="Alasian" width="26px" src="https://pbs.twimg.com/profile_images/907320949762134016/NVTmGzl7_400x400.jpg" />
-<img align="left" alt="GIT" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
-<img align="left" alt="GitHub" width="26px" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Github-512.png" />
-<img align="left" alt="GitLab" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/gitlab-logo-png-transparent.png" /><br>
-
-### 👨🏻‍💻 Tools<br>
 
 
 
