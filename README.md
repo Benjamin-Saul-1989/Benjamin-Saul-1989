@@ -36,6 +36,8 @@ In essence, I am not just an engineer; I am a multifaceted individual driven by 
 ### 👨🏻‍💻 Languages<br>
 ![C](https://img.shields.io/badge/_-C-555555.svg?style=for-the-badge)
 ![C#](https://img.shields.io/badge/_-CS-178600.svg?style=for-the-badge)
+https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
+![DOCKERFILE](https://img.shields.io/badge/_-DOCKERFILE-384D54.svg?style=for-the-badge)
 
 ### 👨🏻‍💻 Sources Control Technologies<br>
 <img align="left" alt="Alasian" width="26px" src="https://pbs.twimg.com/profile_images/907320949762134016/NVTmGzl7_400x400.jpg" />
