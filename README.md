@@ -12,7 +12,7 @@ Beyond the realms of technology, another passion that ignites my creative spirit
 
 In essence, I am not just an engineer; I am a multifaceted individual driven by curiosity, creativity, and a relentless pursuit of excellence.
 
-🔭 I’m currently at UST-Global as a DevOps Engineer.<br>
+🔭 I’m currently at Avertium as a Architecture and Optimization.<br>
 🌱 I’m currently learning, everything I can to be the best possible engineer.<br>
 😄 Pronouns: Them/They<br>
 📫 How to reach me: <p>[<img align="center" alt="LinkedIn" width="80" src="https://golflifenavigators.com/wp-content/uploads/2018/09/linkedin-logo.png" />](https://www.linkedin.com/in/benjamin-saul-mcculloch/)
